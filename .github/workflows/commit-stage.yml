@@ -5,7 +5,6 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME: omoelyon/order-service
   VERSION: latest
-
 jobs:
   build:
     name: Build and Test
